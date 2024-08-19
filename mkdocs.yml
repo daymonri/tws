@@ -1,0 +1,7 @@
+site_name: TechWriter Summary
+site_description: Website with a basic theory for an Middle+ technical writer.
+theme: material
+
+nav:
+  - Home: index.md
+  - About: about.md
