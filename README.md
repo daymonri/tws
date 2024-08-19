@@ -1,2 +1,2 @@
 # tws
-A repository for a website with basic theory for an Middle+ technical writer.
+Repository for a website with a basic theory for an Middle+ technical writer.
