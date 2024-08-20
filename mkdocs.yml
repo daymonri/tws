@@ -1,8 +1,22 @@
 site_name: TechWriter Summary
-site_description: Website with a basic theory for an Middle+ technical writer.
+site_url: https://daymonri.github.io/tws/
+site_description: Website with a basic theory for an Middle+ Technical writer.
+site_author: Alexey Frolov
+repo_url: https://github.com/daymonri/tws.git
+
 theme: material
 
 nav:
-  - Home: index.md
-  - About: about.md
-  - Ref: ref.md
+  - TechDoc:
+    - Определение технической документации:
+    - Техническая документация – процесс и артефакт:
+    - Жизненный цикл технического документа:
+    - Документационный инструментарий:
+  - Standarts/Notations:
+  - API:
+  - Languages/Formats:
+  - Git:
+  - UX:
+  - Sources:
+
+copyright: Copyright &copy; 2024
