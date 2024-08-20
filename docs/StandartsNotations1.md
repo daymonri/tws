@@ -12,7 +12,7 @@
 ![Концептуальная визуализация DITA 1](images/StandartsNotations1-1.jpg)
 ![Концептуальная визуализация DITA 2](images/StandartsNotations1-2.jpg)
 ### Пример карты документа
-```xml
+``` xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="modSaragosaDatasheet" xml:lang="ru">
@@ -31,7 +31,7 @@
 ```
 
 ### Пример типовой врезки
-```xml
+``` xml
 <note id="noteSafety" type="important">
     <p>Электромобиль — современное экологически чистое транспортное 
        средство повышенной опасности. Перед использованием электромобиля 
