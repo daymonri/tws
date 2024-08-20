@@ -12,7 +12,6 @@
 **WYSIWIG** – «что видишь, то и получишь». Пример разработки md-файла в VS Code:
 
 ![Пример разработки md-файла в VS Code](images/techdoc1.jpg)
-
 **Концепция Docs as code:**
 
 - используем **Help Authoring Tools** (Docusaurus, MkDocs, GitBook, Readme);

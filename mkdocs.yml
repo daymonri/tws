@@ -7,9 +7,10 @@ repo_url: https://github.com/daymonri/tws.git
 theme: material
 
 nav:
-  - Определение технической документации: TechDoc1.md
-  - Техническая документация – процесс и артефакт: TechDoc2.md
-  - Жизненный цикл технического документа: TechDoc3.md
-  - Документационный инструментарий: TechDoc4.md
+  - TechDoc:
+    - Определение технической документации: TechDoc1.md
+    - Техническая документация – процесс и артефакт: TechDoc2.md
+    - Жизненный цикл технического документа: TechDoc3.md
+    - Документационный инструментарий: TechDoc4.md
 
-copyright: Copyright &copy; 2024
+copyright: Copyright &copy; 2024 Alexey Frolov
