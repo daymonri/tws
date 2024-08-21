@@ -7,7 +7,11 @@
 - **Component.** Основной уровень, описывает Backend.
 - **Code.** Взаимодействие сервисов и алгоритмы.
 
-### Концептуальная визуализация
-![Концептуальная визуализация С4](images/StandartsNotations2-1.jpg)
 ### Пример визуализации проекта по модели C4
-![Пример визуализации проекта по модели C4](images/StandartsNotations2-2.jpg)
+![Пример визуализации проекта по модели C4](images/StandartsNotations2-1.png)
+#### Уровень 1 - Контекст
+![Контекст](images/StandartsNotations2-2.jpg)
+#### Уровень 2 - Контейнеры
+![Контейнеры](images/StandartsNotations2-3.jpg)
+#### Уровень 1 - Компоненты
+![Компоненты](images/StandartsNotations2-4.jpg)
