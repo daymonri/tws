@@ -13,5 +13,5 @@
 ![Контекст](images/StandartsNotations2-2.jpg)
 #### Уровень 2 - Контейнеры
 ![Контейнеры](images/StandartsNotations2-3.jpg)
-#### Уровень 1 - Компоненты
+#### Уровень 3 - Компоненты
 ![Компоненты](images/StandartsNotations2-4.jpg)
