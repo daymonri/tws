@@ -6,6 +6,10 @@ repo_url: https://github.com/daymonri/tws.git
 
 theme: material
 
+theme:
+  features:
+    - content.code.copy
+    
 nav:
   - TechDoc:
     - Определение технической документации: TechDoc1.md
