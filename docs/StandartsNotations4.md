@@ -11,8 +11,7 @@
 - **сообщения** (синее).
 
 <figure markdown="span">
-  ![Image title](images/StandartsNotations4-1.png){ width="300" }
-  <figcaption>Image caption</figcaption>
+  ![SD](images/StandartsNotations4-1.png){ width="400" }{ align=left }
 </figure>
 
 ### Объекты
