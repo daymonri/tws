@@ -64,7 +64,7 @@ a -x b: Запрос, который будет удален
 Визуализация:
 
 <figure markdown="span">
-  ![Примеры стрелок](images/StandartsNotations4-4.png){ width="300" }
+  ![Примеры стрелок](images/StandartsNotations4-4.png){ width="250" }
 </figure>
 
 ### Группируем сообщения
@@ -79,7 +79,7 @@ end
 Визуализация:
 
 <figure markdown="span">
-  ![Группировка Alt](images/StandartsNotations4-5.png){ width="400" }
+  ![Группировка Alt](images/StandartsNotations4-5.png){ width="600" }
 </figure>
 
 **Группировка Opt** используется для того, чтобы выделить сообщение в опциональный кейс. Например, объект отправляет запрос, а второй объект, в зависимости от полученных данных, может выполнить дополнительное действие.
@@ -91,7 +91,7 @@ end
 Визуализация:
 
 <figure markdown="span">
-  ![Группировка Opt](images/StandartsNotations4-6.png){ width="400" }
+  ![Группировка Opt](images/StandartsNotations4-6.png){ width="600" }
 </figure>
 
 **Группировка Par** используется с оператором else для того, чтобы выделить сообщения, которые выполняются параллельно. Например, объект отправляет запрос, а второй объект параллельно выполнит внутренние вычисления и вернёт ответ первому объекту.
@@ -105,7 +105,7 @@ end
 Визуализация:
 
 <figure markdown="span">
-  ![Группировка Par](images/StandartsNotations4-7.png){ width="400" }
+  ![Группировка Par](images/StandartsNotations4-7.png){ width="600" }
 </figure>
 
 **Группировка Loop** используется для того, чтобы выделить сообщения, которые выполняются несколько раз. Например, объект отправляет запрос, а второй объект выполнит внутренние действия несколько раз в зависимости от отправленных данных.
@@ -117,7 +117,7 @@ end
 Визуализация:
 
 <figure markdown="span">
-  ![Группировка Loop](images/StandartsNotations4-8.png){ width="400" }
+  ![Группировка Loop](images/StandartsNotations4-8.png){ width="600" }
 </figure>
 
 **Группировка Group** используется для того, чтобы скомпоновать сообщения по смыслу. Например, на диаграмме может быть много взаимодействий и для того, чтобы было меньше путаницы можно подписать группы сообщений.
@@ -129,7 +129,7 @@ end
 Визуализация:
 
 <figure markdown="span">
-  ![Группировка Group](images/StandartsNotations4-9.png){ width="400" }
+  ![Группировка Group](images/StandartsNotations4-9.png){ width="600" }
 </figure>
 
 **Можно группировать сами объекты.** Часто используется для описания взаимодействия нескольких систем с микросервисами.
@@ -152,7 +152,7 @@ box end
 Визуализация:
 
 <figure markdown="span">
-  ![Цветные стрелки]images/StandartsNotations4-11.png{ width="300" }
+  ![Цветные стрелки]images/StandartsNotations4-11.png){ width="300" }
 </figure>
 
 ### Изменить цвет текста
@@ -163,7 +163,7 @@ B -->> A: <color #green>Ответ</color>
 Визуализация:
 
 <figure markdown="span">
-  ![Цветной текст]images/StandartsNotations4-12.png{ width="300" }
+  ![Цветной текст]images/StandartsNotations4-12.png){ width="300" }
 </figure>
 
 ### Добавить подсказку
@@ -175,7 +175,7 @@ end note
 Визуализация:
 
 <figure markdown="span">
-  ![Подсказка]images/StandartsNotations4-13.png{ width="500" }
+  ![Подсказка]images/StandartsNotations4-13.png){ width="500" }
 </figure>
 
 ### Поставить разделительную черту
@@ -185,7 +185,7 @@ end note
 Визуализация:
 
 <figure markdown="span">
-  ![Разделительная черта]images/StandartsNotations4-14.png{ width="500" }
+  ![Разделительная черта]images/StandartsNotations4-14.png){ width="500" }
 </figure>
 
 ## Пример разработки SD в PlantUML
