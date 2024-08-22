@@ -10,7 +10,10 @@
 - **линии жизни** (красное);
 - **сообщения** (синее).
 
-![SD](images/StandartsNotations4-1.png)
+<figure markdown="span">
+  ![Image title](images/StandartsNotations4-1.png){ width="300" }
+  <figcaption>Image caption</figcaption>
+</figure>
 
 ### Объекты
 Сущности, которые взаимодействуют друг с другом. Основные типы объектов:
