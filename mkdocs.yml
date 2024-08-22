@@ -5,9 +5,7 @@ site_author: Alexey Frolov
 repo_url: https://github.com/daymonri/tws.git
 
 theme: material
-  features:
-    - content.code.copy
-    
+
 nav:
   - TechDoc:
     - Определение технической документации: TechDoc1.md
