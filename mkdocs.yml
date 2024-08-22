@@ -20,12 +20,12 @@ nav:
 
 copyright: Copyright &copy; 2024 Alexey Frolov
 
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
+  - javascripts/highlight.js
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css
+
 markdown_extensions:
   - pymdownx.highlight:
-      use_pygments: true
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
+      use_pygments: false
