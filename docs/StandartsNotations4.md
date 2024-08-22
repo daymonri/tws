@@ -163,7 +163,7 @@ B -->> A: <color #green>Ответ</color>
 Визуализация:
 
 <figure markdown="span">
-  ![Цветной текст]images/StandartsNotations4-12.png){ width="300" }
+  ![Цветные стрелки](images/StandartsNotations4-12.png){ width="300" }
 </figure>
 
 ### Добавить подсказку
@@ -175,8 +175,9 @@ end note
 Визуализация:
 
 <figure markdown="span">
-  ![Подсказка]images/StandartsNotations4-13.png){ width="500" }
+  ![Группировка Group](images/StandartsNotations4-13.png){ width="500" }
 </figure>
+
 
 ### Поставить разделительную черту
 ```plantuml
@@ -185,7 +186,7 @@ end note
 Визуализация:
 
 <figure markdown="span">
-  ![Разделительная черта]images/StandartsNotations4-14.png){ width="500" }
+  ![Группировка Group](images/StandartsNotations4-9.png){ width="500" }
 </figure>
 
 ## Пример разработки SD в PlantUML
