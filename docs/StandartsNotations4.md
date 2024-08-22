@@ -37,7 +37,7 @@
 ## Синтаксис PlantUNL
 
 ### Определяем объекты
-```plantuml
+```html
 actor "Пользователь" as u
 participant "Фронт" as f
 participant "Бэк" as b
