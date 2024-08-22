@@ -11,7 +11,7 @@
 - **сообщения** (синее).
 
 <figure markdown="span">
-  ![SD](images/StandartsNotations4-1.png){ width="600" }
+  ![SD](images/StandartsNotations4-1.png){ width="500" }
 </figure>
 
 ### Объекты
@@ -64,7 +64,7 @@ a -x b: Запрос, который будет удален
 Визуализация:
 
 <figure markdown="span">
-  ![Примеры стрелок](images/StandartsNotations4-4.png){ width="600" }
+  ![Примеры стрелок](images/StandartsNotations4-4.png){ width="300" }
 </figure>
 
 ### Группируем сообщения
@@ -78,7 +78,9 @@ end
 ```
 Визуализация:
 
-![Группировка Alt](images/StandartsNotations4-5.png)
+<figure markdown="span">
+  ![Группировка Alt](images/StandartsNotations4-5.png){ width="400" }
+</figure>
 
 **Группировка Opt** используется для того, чтобы выделить сообщение в опциональный кейс. Например, объект отправляет запрос, а второй объект, в зависимости от полученных данных, может выполнить дополнительное действие.
 ```plantuml
@@ -88,7 +90,9 @@ end
 ```
 Визуализация:
 
-![Группировка Opt](images/StandartsNotations4-6.png)
+<figure markdown="span">
+  ![Группировка Opt](images/StandartsNotations4-6.png){ width="400" }
+</figure>
 
 **Группировка Par** используется с оператором else для того, чтобы выделить сообщения, которые выполняются параллельно. Например, объект отправляет запрос, а второй объект параллельно выполнит внутренние вычисления и вернёт ответ первому объекту.
 ```plantuml
@@ -100,7 +104,9 @@ end
 ```
 Визуализация:
 
-![Группировка Par](images/StandartsNotations4-7.png)
+<figure markdown="span">
+  ![Группировка Par](images/StandartsNotations4-7.png){ width="400" }
+</figure>
 
 **Группировка Loop** используется для того, чтобы выделить сообщения, которые выполняются несколько раз. Например, объект отправляет запрос, а второй объект выполнит внутренние действия несколько раз в зависимости от отправленных данных.
 ```plantuml
@@ -110,7 +116,9 @@ end
 ```
 Визуализация:
 
-![Группировка Loop](images/StandartsNotations4-8.png)
+<figure markdown="span">
+  ![Группировка Loop](images/StandartsNotations4-8.png){ width="400" }
+</figure>
 
 **Группировка Group** используется для того, чтобы скомпоновать сообщения по смыслу. Например, на диаграмме может быть много взаимодействий и для того, чтобы было меньше путаницы можно подписать группы сообщений.
 ```plantuml
@@ -120,7 +128,9 @@ end
 ```
 Визуализация:
 
-![Группировка Group](images/StandartsNotations4-9.png)
+<figure markdown="span">
+  ![Группировка Group](images/StandartsNotations4-9.png){ width="400" }
+</figure>
 
 **Можно группировать сами объекты.** Часто используется для описания взаимодействия нескольких систем с микросервисами.
 ```plantuml
