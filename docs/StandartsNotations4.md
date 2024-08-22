@@ -152,8 +152,10 @@ box end
 Визуализация:
 
 <figure markdown="span">
-  ![Цветные стрелки]images/StandartsNotations4-11.png){ width="300" }
+  ![Цветные стрелки](images/StandartsNotations4-11.png){ width="200" }
 </figure>
+
+![Цветные стрелки](images/StandartsNotations4-11.png)
 
 ### Изменить цвет текста
 ```plantuml
