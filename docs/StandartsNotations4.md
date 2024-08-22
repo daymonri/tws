@@ -11,7 +11,7 @@
 - **сообщения** (синее).
 
 <figure markdown="span">
-  ![SD](images/StandartsNotations4-1.png){ width="300", align=left!important }
+  ![SD](images/StandartsNotations4-1.png){ width="300", align="left"!important }
 </figure>
 
 ### Объекты
