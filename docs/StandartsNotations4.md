@@ -141,7 +141,9 @@ box end
 ```
 Визуализация:
 
-![Цветные стрелки](images/StandartsNotations4-11.png)
+<figure markdown="span">
+  ![Цветные стрелки]images/StandartsNotations4-11.png{ width="300" }
+</figure>
 
 ### Изменить цвет текста
 ```plantuml
@@ -150,7 +152,9 @@ B -->> A: <color #green>Ответ</color>
 ```
 Визуализация:
 
-![Цветной текст](images/StandartsNotations4-12.png)
+<figure markdown="span">
+  ![Цветной текст]images/StandartsNotations4-12.png{ width="300" }
+</figure>
 
 ### Добавить подсказку
 ```plantuml
@@ -160,7 +164,9 @@ end note
 ```
 Визуализация:
 
-![Подсказка](images/StandartsNotations4-13.png)
+<figure markdown="span">
+  ![Подсказка]images/StandartsNotations4-13.png{ width="500" }
+</figure>
 
 ### Поставить разделительную черту
 ```plantuml
@@ -168,7 +174,9 @@ end note
 ```
 Визуализация:
 
-![Разделительная черта](images/StandartsNotations4-14.png)
+<figure markdown="span">
+  ![Разделительная черта]images/StandartsNotations4-14.png{ width="500" }
+</figure>
 
 ## Пример разработки SD в PlantUML
 ![Пример](images/StandartsNotations4-15.png)
